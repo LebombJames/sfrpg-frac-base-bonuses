@@ -2,6 +2,8 @@
   "name": "sfrpg-frac-base-bonuses",
   "title": "SFRPG Fractional Base Bonuses",
   "description": "An implementation of the Fractional Base Bonuses variant rule from Pathfinder Unchained into Starfinder.",
+  "manifest": "https://raw.githubusercontent.com/LebombJames/sfrpg-frac-base-bonuses/main/module.json",
+  "download":"https://github.com/LebombJames/sfrpg-frac-base-bonuses/archive/v1.0.0.zip",
   "author": "LebombJames",
   "authors": [],
   "flags": {},
