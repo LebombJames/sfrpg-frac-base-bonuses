@@ -5,6 +5,7 @@
   "manifest": "https://raw.githubusercontent.com/LebombJames/sfrpg-frac-base-bonuses/main/module.json",
   "download": "https://github.com/LebombJames/sfrpg-frac-base-bonuses/archive/v1.0.0.zip",
   "url": "https://github.com/LebombJames/sfrpg-frac-base-bonuses",
+  "systems": ["sfrpg"],
   "author": "LebombJames",
   "authors": [],
   "flags": {},
